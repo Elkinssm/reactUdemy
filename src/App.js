@@ -18,10 +18,8 @@ function App() {
         value={nombre}
         onChange={eventoCajaTexto}
       ></input>
-      <Perfil atributomio={nombre} />
-      <Perfil atributomio={nombre} />
-      <Perfil atributomio={nombre} />
-      <Perfil atributomio={nombre} />
+      <Perfil  />
+      
     </div>
   );
 }
